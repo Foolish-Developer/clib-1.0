@@ -1,0 +1,2 @@
+MySQLConnector-8.0
+XXHash
